@@ -26,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad-ramzan&show_icons=true&locale=en&layout=compact" alt="ahmad-ramzan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmad-ramzan&show_icons=true&locale=en" alt="ahmad-ramzan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-ramzan&" alt="ahmad-ramzan" /></p>
