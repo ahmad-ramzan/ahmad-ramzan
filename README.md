@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **muhammadahmad4922@gmail.com**
 
-- ⚡ Fun fact **I think i am serious**
+- ⚡ Fun fact **I think I am Serious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
