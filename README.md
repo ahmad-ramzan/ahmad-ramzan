@@ -15,9 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:yourname@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="yourname@gmail.com" height="30" width="40" />
-</a>
+<a href="https://twitter.com/muhamma13848080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhamma13848080" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammadahmad4922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadahmad4922" height="30" width="40" /></a>
 <a href="https://kaggle.com/ahmad4922" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmad4922" height="30" width="40" /></a>
 <a href="https://fb.com/muhammad ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad ahmad" height="30" width="40" /></a>
