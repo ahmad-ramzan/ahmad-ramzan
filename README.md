@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadahmad4922&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadahmad4922" /> </p>
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently working on **AI**
 
-- ⚡ I've also knowledge about **ML Python Wordpress JavaScript**
+- ⚡ I've also knowledge about **ML Python JavaScript**
 
 - 📫 How to reach me **muhammadahmad4922@gmail.com**
 
