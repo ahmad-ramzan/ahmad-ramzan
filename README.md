@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on **AI**
 
-- ⚡ I've also knowledge about **Python | Machine Learning | Data Science**
+- ⚡ I've also knowledge about **Python | Machine Learning | Data Analysis**
 
 - 📫 How to reach me **muhammadahmad4922@gmail.com**
 
